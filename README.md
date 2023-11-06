@@ -9,7 +9,4 @@ OBS Studio公式ダウンロードページ ( https://obsproject.com/ja/welcome 
 - Zoomのインストール  
 Zoomデスクトップアプリダウンロードページ ( https://zoom.us/download#client_4meeting ) から入手可能.  
 ※ ブラウザ版でもデスクトップアプリ版でもどちらでも良い
-## アルゴリズム
-## Zoomへの適用
-### システム全体図
-### 使用ソフトウェア
+## システム概要
