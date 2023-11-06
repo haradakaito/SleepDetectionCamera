@@ -4,7 +4,7 @@
 ```
 $ pip install opencv-python
 ```
-- OBS Studioのインストール
+- OBS Studioのインストール  
 OBS Studioの公式ダウンロードページ(https://obsproject.com/ja/welcome)からインストールを行う.  
 ## アルゴリズム
 ## Zoomへの適用
