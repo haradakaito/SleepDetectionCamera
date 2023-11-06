@@ -18,3 +18,6 @@ Zoomデスクトップアプリダウンロードページ ( https://zoom.us/dow
 　ZoomカメラのON/OFFの切り替えに関しては, 実際にOpenCVのカメラを切るとOBS Studioとの接続も切断されてしまうため, Zoom画面のビデオON/OFF切り替えボタンに割り当てられているキーコマンド(Alt+V)を実行することで実現している.  
 　注意点としては, Zoomのウィンドウをカーソル選択している時でなければ, 当然キーコマンドを打ってもビデオON/OFFはできないことである(他のウィンドウ上で変な挙動をしてしまう恐れがある).  
 以下にOpenCVカメラ制御時のフローチャートを示す.  
+
+<img width=500 src=https://github.com/haradakaito/SleepDetectionCamera/assets/75819611/30b25d30-e699-4491-871f-5ffcd4ef2bed>
+
