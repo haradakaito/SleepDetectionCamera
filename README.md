@@ -1,5 +1,5 @@
 # [Zoom会議用] 居眠り検知カメラ
-## システム概要
+## 0. システム概要
 ![zoomcamera_system](https://github.com/haradakaito/SleepDetectionCamera/assets/75819611/bdcb242a-b6f4-424d-9cf0-d7f09494bb5d)
 
 ## 1. 環境構築
