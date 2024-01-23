@@ -9,6 +9,7 @@ $ pip install opencv-python
 
 [OBS Studio公式ダウンロードページ](https://obsproject.com/ja/download)からインストール可能
 - Zoomのインストール
+
 [Zoomデスクトップアプリダウンロードページ](https://zoom.us/download#client_4meeting) から入手可能.  
 ※ ブラウザ版でもデスクトップアプリ版でもどちらでも良い
 
