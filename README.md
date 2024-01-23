@@ -4,6 +4,8 @@
 ```
 $ pip install opencv-python
 ```
+> OpenCVとはインテルが開発・公開したオープンソースのコンピュータビジョン向けライブラリ
+
 - OBS Studioのインストール  
 [OBS Studio公式ダウンロードページ](https://obsproject.com/ja/download)からインストール可能
 > OBS Studio（オービーエススタジオ、OBS、Open Broadcaster Software）は、OBS Projectが開発保守しているフリー・オープンなストリーミング配信・録画ソフトウェア
