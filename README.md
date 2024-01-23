@@ -27,4 +27,6 @@ $ pip install opencv-python
 
 <img width=500 src=https://github.com/haradakaito/SleepDetectionCamera/assets/75819611/30b25d30-e699-4491-871f-5ffcd4ef2bed>
 
-
+- OpenCVカメラの映像を入力として，顔(目と口)を認識するための学習済みモデルに与える．  
+- 目が認識されていない時間が一定時間を経過した場合，カメラをOFFにする
+- カメラがOFFになっているとき
