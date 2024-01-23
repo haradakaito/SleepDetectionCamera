@@ -2,7 +2,7 @@
 ## システム概要
 ![zoomcamera_system](https://github.com/haradakaito/SleepDetectionCamera/assets/75819611/bdcb242a-b6f4-424d-9cf0-d7f09494bb5d)
 
-## 環境構築
+## 1. 環境構築
 - OpenCVのインストール
 ```
 $ pip install opencv-python
@@ -16,7 +16,7 @@ $ pip install opencv-python
 [Zoomデスクトップアプリダウンロードページ](https://zoom.us/download#client_4meeting) から入手可能.  
 ※ ブラウザ版でもデスクトップアプリ版でもどちらでも良い
 
-## アルゴリズム
+## 2. アルゴリズム
 - OpenCVで，デバイス搭載のカメラを起動する
 - OBS Studioで，OpenCVで起動したカメラウィンドウを仮想カメラとして映す
 - Zoomを起動し，ビデオで"OBS Studioの仮想カメラ"を選択することで, OpenCVで起動したカメラウィンドウをZoomに映すことが可能になる
