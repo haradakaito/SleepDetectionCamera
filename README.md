@@ -5,7 +5,7 @@
 $ pip install opencv-python
 ```
 - OBS Studioのインストール
-> OBS Studio（オービーエススタジオ、OBS、Open Broadcaster Software）は、OBS Projectが開発保守しているフリー・オープンなストリーミング配信・録画ソフトウェア
+> OBS Studio（オービーエススタジオ、OBS、Open Broadcaster Software）は、OBS Projectが開発保守しているフリー・オープンなストリーミング配信・録画ソフトウェア  
 [OBS Studio公式ダウンロードページ](https://obsproject.com/ja/download)からインストール可能
 - Zoomのインストール
 [Zoomデスクトップアプリダウンロードページ](https://zoom.us/download#client_4meeting) から入手可能.  
