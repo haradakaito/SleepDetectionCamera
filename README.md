@@ -23,10 +23,10 @@ $ pip install opencv-python
 - Zoomを起動し，ビデオで"OBS Studioの仮想カメラ"を選択することで, OpenCVで起動したカメラウィンドウをZoomに映すことが可能になる
 - ZoomカメラのON/OFFの切り替えに関しては, Zoom画面のビデオON/OFF切り替えボタンに割り当てられているキーコマンド(Alt+V)を実行することで実現している  
 ※Zoomのウィンドウをカーソル選択している時でなければ, ビデオON/OFFはできないことである(他のウィンドウ上で変な挙動をしてしまう恐れがある)
-以下にOpenCVカメラ制御時のフローチャートを示す.  
 
 <img width=500 src=https://github.com/haradakaito/SleepDetectionCamera/assets/75819611/30b25d30-e699-4491-871f-5ffcd4ef2bed>
 
+上図に，OpenCVカメラ制御時のフローチャートを示す. 
 - OpenCVカメラの映像を入力として，顔(目と口)を認識するための学習済みモデルに与える
 - カメラが目を認識している間は，タイマーをリセットし，カメラをONにする操作を繰り返す
 - 目が認識されていない時間が一定時間を経過した場合，カメラをOFFにする
